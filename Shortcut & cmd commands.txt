@@ -19,6 +19,8 @@ Windows+D = To minimise all the tabs and then reopen it
 Control+J = To check the status of downloads in Chrome
 Control+F = To search for a specific word or to find anything
 Control+H = To open history
+window+up arrow = used to maximize the screen
+window+down arrow = used to minimize the screen
 
 cmd commands
 ------------
