@@ -14,13 +14,14 @@ Control+O = To open doc
 Control+P = To create pdf
 Windows+L = To lock PC
 Windows+S = To open recent files
-Windows+M = To minimise all tabs
-Windows+D = To minimise all the tabs and then reopen it
+Windows+M = To minimize all tabs
+Windows+D = To minimize all the tabs and then reopen it
 Control+J = To check the status of downloads in Chrome
 Control+F = To search for a specific word or to find anything
 Control+H = To open history
 window+up arrow = used to maximize the screen
 window+down arrow = used to minimize the screen
+winddow+s = used to open search bar tab 
 
 cmd commands
 ------------
