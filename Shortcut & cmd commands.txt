@@ -22,6 +22,13 @@ Control+H = To open history
 window+up arrow = used to maximize the screen
 window+down arrow = used to minimize the screen
 winddow+s = used to open search bar tab 
+Press “Ctrl + K” or “Alt + D” = To get focus to the address bar and directly type your search keys and press Enter key
+How to enable keyboard shortcut to open specific bookmark / URL while using Chrome?= 
+#Using Customize and control Google Chrome:
+1. Press Alt + E or Alt + F to open Customize and control Google Chrome.
+2. Press B to enter Bookmarks.
+3. Assuming the desired bookmark is in the Bookmarks Bar, select it with the arrow keys.
+4. Press Enter.
 
 cmd commands
 ------------
