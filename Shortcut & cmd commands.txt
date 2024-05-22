@@ -29,6 +29,8 @@ How to enable keyboard shortcut to open specific bookmark / URL while using Chro
 2. Press B to enter Bookmarks.
 3. Assuming the desired bookmark is in the Bookmarks Bar, select it with the arrow keys.
 4. Press Enter.
+Open the previous page from your browsing history in the current tab	= Alt + ←
+Open the next page from your browsing history in the current tab	= Alt + →
 
 cmd commands
 ------------
