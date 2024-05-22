@@ -31,6 +31,7 @@ How to enable keyboard shortcut to open specific bookmark / URL while using Chro
 4. Press Enter.
 Open the previous page from your browsing history in the current tab	= Alt + ←
 Open the next page from your browsing history in the current tab	= Alt + →
+Close all open tabs and the browser	= Ctrl + Shift + w
 
 cmd commands
 ------------
